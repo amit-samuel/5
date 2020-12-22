@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="150c4710-3e8c-4f16-a8cc-95f7e9d6bb8a" name="Default Changelist" comment="change description 1.1">
+    <list default="true" id="150c4710-3e8c-4f16-a8cc-95f7e9d6bb8a" name="Default Changelist" comment="delete logo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608567630193</updated>
-      <workItem from="1608567631430" duration="6013000" />
+      <workItem from="1608567631430" duration="6931000" />
     </task>
     <task id="LOCAL-00001" summary="change description 1.0">
       <created>1608574229534</created>
@@ -59,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608574401139</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="delete logo">
+      <created>1608574906056</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608574906056</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +85,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change description 1.0" />
     <MESSAGE value="change description 1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="change description 1.1" />
+    <MESSAGE value="delete logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete logo" />
   </component>
 </project>
